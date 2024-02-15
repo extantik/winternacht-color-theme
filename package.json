@@ -1,0 +1,25 @@
+{
+  "name": "winternacht",
+  "displayName": "Winternacht",
+  "description": "Dark theme with blue accents. Based on the cool 'Winter is Coming' theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Winternacht",
+        "uiTheme": "vs-dark",
+        "path": "./themes/winternacht-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/extantik/winternacht-color-theme.git"
+  }
+}
