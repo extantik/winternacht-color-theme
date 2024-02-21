@@ -29,12 +29,12 @@
         "editor.foreground": "#d4ebf7",
         "editor.lineHighlightBackground": "#002a40",
         "editor.selectionBackground": "#a8d8f030",
-        "editorBracketHighlight.foreground1": "#ff80aa",
-        "editorBracketHighlight.foreground2": "#80ffff",
-        "editorBracketHighlight.foreground3": "#ffaa80",
-        "editorBracketHighlight.foreground4": "#80ff80",
-        "editorBracketHighlight.foreground5": "#80ffea",
-        "editorBracketHighlight.foreground6": "#ffff80",
+        "editorBracketHighlight.foreground1": "#ff80aacc",
+        "editorBracketHighlight.foreground2": "#80ffffcc",
+        "editorBracketHighlight.foreground3": "#ffaa80cc",
+        "editorBracketHighlight.foreground4": "#80ff80cc",
+        "editorBracketHighlight.foreground5": "#80ffeacc",
+        "editorBracketHighlight.foreground6": "#ffff80cc",
         "editorBracketMatch.background": "#001e2e",
         "editorBracketMatch.border": "#84aabd",
         "editorCursor.background": "#000000",
@@ -69,7 +69,7 @@
         "editorOverviewRuler.errorForeground": "#ff8080",
         "editorOverviewRuler.infoForeground": "#80ffff",
         "editorOverviewRuler.modifiedForeground": "#80d5ff",
-        "editorOverviewRuler.selectionHighlightForeground": "#a8d8f0",
+        "editorOverviewRuler.selectionHighlightForeground": "#a8d8f0cc",
         "editorOverviewRuler.warningForeground": "#ffff80",
         "editorPane.background": "#001b29",
         "editorRuler.foreground": "#00334d",
@@ -88,14 +88,20 @@
         "extensionButton.prominentHoverBackground": "#4c7f99",
         "focusBorder": "#a8d8f0",
         "foreground": "#d4ebf7",
-        "gitDecoration.addedResourceForeground": "#80ff80",
-        "gitDecoration.deletedResourceForeground": "#ff0055",
-        "gitDecoration.modifiedResourceForeground": "#80d5ff",
-        "gitDecoration.stageDeletedResourceForeground": "#ff0055",
-        "gitDecoration.stageModifiedResourceForeground": "#80d5ff",
+        "gitDecoration.addedResourceForeground": "#b3ffb3",
+        "gitDecoration.submoduleResourceForeground": "#80d2ff",
+        "gitDecoration.conflictingResourceForeground": "#ffb3ff",
+        "gitDecoration.ignoredResourceForeground": "#d4ebf750",
+        "gitDecoration.renamedResourceForeground": "#ffaa80",
+        "gitDecoration.untrackedResourceForeground": "#b3ffff",
+        "gitDecoration.deletedResourceForeground": "#ffb3b3",
+        "gitDecoration.modifiedResourceForeground": "#ffffc2",
+        "gitDecoration.stageDeletedResourceForeground": "#ff4d4d",
+        "gitDecoration.stageModifiedResourceForeground": "#ffff4d",
         "gitblame.inlineMessage": "#265973aa",
         "input.background": "#002a40",
         "input.border": "#00304a",
+        "editorCodeLens.foreground": "#00aaff",
         "inputValidation.errorBackground": "#ff808090",
         "inputValidation.errorBorder": "#ff8080",
         "inputValidation.errorForeground": "#000000",
@@ -134,7 +140,7 @@
         "pickerGroup.border": "#00111a",
         "pickerGroup.foreground": "#a8d8f0",
         "problemsErrorIcon.foreground": "#ff8080",
-        "problemsInfoIcon.foreground": "#80ffff",
+        "problemsInfoIcon.foreground": "#80d4ff",
         "problemsWarningIcon.foreground": "#ffff80",
         "progressBar.background": "#a8d8f0",
         "scrollbar.shadow": "#000000",
@@ -145,6 +151,7 @@
         "settings.modifiedItemIndicator": "#80d5ff",
         "sideBar.background": "#001e2d",
         "sideBarSectionHeader.background": "#00263a",
+        "sideBar.foreground": "#d4ebf7cc",
         "statusBar.background": "#001926",
         "statusBar.noFolderBackground": "#b300b2",
         "statusBar.debuggingBackground": "#ff4d88",
@@ -185,7 +192,7 @@
         {
             "scope": "keyword",
             "settings": {
-                "foreground": "#79b5d2"
+                "foreground": "#33bbff"
             }
         },
         {
@@ -263,7 +270,7 @@
                 "foreground": "#ff661a"
             }
         },
-                {
+        {
             "scope": [
                 "variable.other.meta.import.js",
                 "meta.import.js variable.other",
@@ -308,7 +315,7 @@
                 "meta.method.declaration storage.type.tsx"
             ],
             "settings": {
-                "foreground": "#80d2ff"
+                "foreground": "#8ad6ff"
             }
         },
         {
@@ -328,7 +335,7 @@
                 "foreground": "#c2ebff"
             }
         },
-                {
+        {
             "scope": "variable.other.constant",
             "settings": {
                 "foreground": "#a8f0e4"
@@ -349,7 +356,6 @@
                 "entity.name.section"
             ],
             "settings": {
-                "fontStyle": "bold",
                 "foreground": "#4dc3ff"
             }
         },
@@ -508,7 +514,7 @@
                 "foreground": "#ffb3cc"
             }
         },
-                {
+        {
             "scope": [
                 "variable.parameter"
             ],
@@ -526,7 +532,7 @@
                 "foreground": "#bef4be"
             }
         },
-                {
+        {
             "scope": "token.info-token",
             "settings": {
                 "foreground": "#80d4ff"

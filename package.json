@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Winternacht",
+        "label": "Winternacht Polar",
         "uiTheme": "vs-dark",
-        "path": "./themes/winternacht-color-theme.json"
+        "path": "./themes/winternacht-color-theme-polar.json"
+      },
+      {
+        "label": "Winternacht Frost",
+        "uiTheme": "vs-dark",
+        "path": "./themes/winternacht-color-theme-frost.json"
       }
     ]
   },
