@@ -20,6 +20,11 @@
         "label": "Winternacht Frost",
         "uiTheme": "vs-dark",
         "path": "./themes/winternacht-color-theme-frost.json"
+      },
+      {
+        "label": "Winternacht Polar Ext",
+        "uiTheme": "vs-dark",
+        "path": "./themes/winternacht-color-theme-polar-ext.json"
       }
     ]
   },
