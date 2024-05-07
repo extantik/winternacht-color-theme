@@ -1,8 +1,12 @@
 {
   "name": "winternacht",
-  "displayName": "Winternacht",
-  "description": "Dark theme with blue accents. Based on the cool 'Winter is Coming' theme.",
-  "version": "0.0.1",
+  "author": {
+    "name": "psykeroe",
+    "email": "antti.tikka@gmail.com"
+  },
+  "displayName": "Winternacht Theme",
+  "description": "A dark color theme for those who love the night.",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -12,24 +16,20 @@
   "contributes": {
     "themes": [
       {
-        "label": "Winternacht Polar",
+        "label": "Winternacht",
         "uiTheme": "vs-dark",
-        "path": "./themes/winternacht-color-theme-polar.json"
-      },
-      {
-        "label": "Winternacht Frost",
-        "uiTheme": "vs-dark",
-        "path": "./themes/winternacht-color-theme-frost.json"
-      },
-      {
-        "label": "Winternacht Melt",
-        "uiTheme": "vs-dark",
-        "path": "./themes/winternacht-color-theme-meltdown.json"
+        "path": "./themes/winternacht-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/extantik/winternacht-color-theme.git"
-  }
+  },
+  "galleryBanner": {
+    "color": "#0299d2",
+    "theme": "dark"
+  },
+  "publisher": "psykeroe",
+  "icon": "./winternacht-icon.png"
 }
