@@ -6,7 +6,7 @@
   },
   "displayName": "Winternacht Theme",
   "description": "A dark color theme for those who love the night.",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -27,7 +27,7 @@
     "url": "https://github.com/extantik/winternacht-color-theme.git"
   },
   "galleryBanner": {
-    "color": "#0299d2",
+    "color": "#142a39",
     "theme": "dark"
   },
   "publisher": "psykeroe",
