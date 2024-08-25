@@ -6,7 +6,7 @@
   },
   "displayName": "Winternacht Theme",
   "description": "A dark color theme for those who love the night.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -31,5 +31,5 @@
     "theme": "dark"
   },
   "publisher": "psykeroe",
-  "icon": "./winternacht-icon.png"
+  "icon": "./images/winternacht-icon.png"
 }
