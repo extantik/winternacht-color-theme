@@ -1,5 +1,5 @@
 # Winternacht Color Theme
-![image](./winternacht-color-theme-cover-image.png)
+![image](images/winternacht-color-theme-cover-image.png)
 
 A dark VSCode theme inspired by and crafted during the cold, dark Finnish winter
 nights. Designed to be easy on the eyes during long coding sessions in dark

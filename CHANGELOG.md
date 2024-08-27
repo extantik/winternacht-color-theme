@@ -1,4 +1,8 @@
-## [v1.0.2]
+## [v1.0.4]
+
+- Improved icon
+
+## [v1.0.3]
 
 - Debug console color improvements
 
