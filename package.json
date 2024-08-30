@@ -5,8 +5,8 @@
     "email": "antti.tikka@gmail.com"
   },
   "displayName": "Winternacht Theme",
-  "description": "A dark color theme for those who love the night.",
-  "version": "1.0.4",
+  "description": "A dark color theme for those who love the night, inspired by the Aya Mirage, Halcyon, and Cobalt2 themes, as well as the cold, long winter nights of the north.",
+  "version": "1.0.5",
   "engines": {
     "vscode": "^1.86.0"
   },
