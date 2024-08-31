@@ -1,4 +1,8 @@
-## [v.1.0.5]
+## [v1.0.6]
+
+- Syntax highlight and workbench colors fine-tuning.
+
+## [v1.0.5]
 
 - Add syntax highlighting support for Go
 - Refactor syntax color definitions
